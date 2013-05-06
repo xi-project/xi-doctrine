@@ -1,4 +1,5 @@
 /nbproject
+/.idea
 composer.phar
 composer.lock
 vendor
