@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "doctrine/orm": "=2.2.2"
+        "doctrine/orm": ">=2.1"
     },
     "autoload": {
         "psr-0": {
